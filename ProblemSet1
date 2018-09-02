@@ -6,6 +6,13 @@ Wed: Completed 5 identity facts for Luke B
 
 Version Control Scenarios:
     1.) In major brands/companies, having version control of old or previous logos are important for throwback and retro collections.
-    2.) In any form of construction, having prior architectural layouts help future and previous development planners to constrast and compare which version is most advantageous for the situation.
-    3.) As data analysts, version control in coding laguages help us find inefficiencies and generate more effective pathways. Knowing which versions do not work or are less effective help guide new innovations by using visible past information to help create better connections.
+    2.) In any form of construction, having prior architectural layouts help future and previous development planners to contrast and compare which version is most advantageous for the situation.
+    3.) As data analysts, version control in coding languages help us find inefficiencies and generate more effective pathways. Knowing which versions do not work or are less effective help guide new innovations by using visible past information to help create better connections.
     
+
+Merging: When two people merge at the same time on a master file, it reads it as someone else trying to update from a previous non-updated version. Two people cannot work and change off of the master file, although they can work at the same time on branch files. To resolve the issue you have to re-pull, commit, and push.
+
+Strategies from Version Control:
+	1.)Make sure to always try and be working off the latest version with your collaborators to avoid errors.
+	2.) When committing, adding additional description information is useful when further explanation is necessary with an updated push. This helps collaborators when visiting prior versions.
+	3.)Before pushing a new commit or change, the summary code should be an accurate description of what changes were made to communicate clearly with other teammates in the recorded version control changes.
