@@ -16,3 +16,4 @@ Strategies from Version Control:
 	1.)Make sure to always try and be working off the latest version with your collaborators to avoid errors.
 	2.) When committing, adding additional description information is useful when further explanation is necessary with an updated push. This helps collaborators when visiting prior versions.
 	3.)Before pushing a new commit or change, the summary code should be an accurate description of what changes were made to communicate clearly with other teammates in the recorded version control changes.
+	
